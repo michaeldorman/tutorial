@@ -1,6 +1,4 @@
 geopandas
 folium
 matplotlib
-openpyxl
 mapclassify
-rasterio
