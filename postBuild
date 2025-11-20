@@ -1,2 +1,2 @@
-wget -q -O tutorial.zip "https://geobgu.xyz/presentations/p_2023_ogh/tutorial.zip"
+wget -q -O tutorial.zip "https://geobgu.xyz/presentations/p_2025_bgu/tutorial.zip"
 unzip tutorial.zip
