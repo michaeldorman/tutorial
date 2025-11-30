@@ -1,2 +1,3 @@
 wget --no-check-certificate -q -O tutorial.zip "https://geobgu.xyz/presentations/p_2025_bgu/tutorial.zip"
 unzip tutorial.zip
+
