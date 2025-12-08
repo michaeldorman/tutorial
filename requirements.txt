@@ -1,4 +1,5 @@
 geopandas
 folium
+mapclassify
 geopy
 matplotlib
